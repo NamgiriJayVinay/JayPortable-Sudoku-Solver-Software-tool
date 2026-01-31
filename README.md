@@ -122,9 +122,6 @@ Simple Graphical User Interface to Solve Sudoku from the manual keyboard Input
 
 Jay - [@https://www.linkedin.com/in/jay-vinay/](https://www.linkedin.com/in/jay-vinay/)
 
-My Website - [https://www.jayvinay.com/](https://www.jayvinay.com/)
-
-
 Project  Landing Page: [https://jay-sudoku-solver.netlify.app/](https://jay-sudoku-solver.netlify.app/)
 
 Project  Source code Link: [https://github.com/NamgiriJayVinay/JayPortable-Sudoku-Solver-Software-tool](https://github.com/NamgiriJayVinay/JayPortable-Sudoku-Solver-Software-tool)
